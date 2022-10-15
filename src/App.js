@@ -145,7 +145,7 @@ function App()
 								<p>
 									Lorem ipsum dolor sit amet, consectetur
 									adipisic ing elit, seddo eiusmod tempor
-									incid.idunt ut labore et dolore magna
+									incid.idunt umagna
 									aliqua.
 								</p>
 							</div>
